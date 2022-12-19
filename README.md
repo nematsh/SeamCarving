@@ -1,4 +1,4 @@
-This zip contains the following:
+This repository contains the following:
 
 resizeable_image.py: Implementation here.
 
